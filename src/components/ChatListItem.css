@@ -35,12 +35,15 @@
     justify-content:space-between;
     align-items:center;
     width:100%;
+    
 
 }
 .chatListItem--name{
   font-size:17px;
   color: #000;
-  
+  height: auto;
+  width: 150px;
+ 
 }
 .chatListItem--date{
   font-size:12px;
